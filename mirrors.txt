@@ -3,11 +3,9 @@ https://ftp.sjtu.edu.cn/ubuntu/
 https://mirrors.cqu.edu.cn/ubuntu/
 httpss://mirrors.hit.edu.cn/ubuntu/
 https://mirrors.dgut.edu.cn/ubuntu/
-https://mirrors.njupt.edu.cn/ubuntu/
 https://mirrors.tuna.tsinghua.edu.cn/ubuntu/
 httpss://mirrors.bfsu.edu.cn/ubuntu/
 https://mirrors.yun-idc.com/ubuntu/
 https://mirrors.ustc.edu.cn/ubuntu/
 https://mirror.lzu.edu.cn/ubuntu/
 https://mirrors.huaweicloud.com/repository/ubuntu/
-https://archive.ubuntu.com/ubuntu/
